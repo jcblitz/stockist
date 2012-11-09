@@ -1,0 +1,18 @@
+---
+bag:
+  url: "http://palmettostatearmory.com/index.php/accessories/magazines/can-o-mags/psa-mags-and-a-bag.html"
+  css_target: ".availability"
+  value: "Availability: TEMPORARILY OUT OF STOCK"
+  strategy: :change
+---
+lower:
+  url: "http://palmettostatearmory.com/index.php/ar-15-05/lower-parts/lower-receivers/palmetto-state-armory-blemished-lower-receiver.html"
+  css_target: ".availability"
+  value: "Availability: Out of stock"
+  strategy: :change
+---
+sight:
+  url: "https://www.primaryarms.com/Primary_Arms_MultiReticle_Red_Dot_Sight_PAM3M_p/pam3m.htm"
+  css_target: "span[itemprop='description']"
+  value: "Multi-Reticle 2MOA Red Dot Sight for M3 Style Mounts. (ETA JAN 2013)"
+  strategy: :change

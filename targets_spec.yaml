@@ -1,0 +1,12 @@
+---
+bag:
+  url: "http://palmettostatearmory.com/index.php/accessories/magazines/can-o-mags/psa-mags-and-a-bag.html"
+  css_target: ".availability"
+  value: "Availability: TEMPORARILY OUT OF STOCK"
+  strategy: :change
+---
+lower:
+  url: "http://palmettostatearmory.com/index.php/ar-15-05/lower-parts/lower-receivers/palmetto-state-armory-blemished-lower-receiver.html"
+  css_target: ".availability"
+  value: "Availability: Out of stock"
+  strategy: :change
